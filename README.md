@@ -17,11 +17,9 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 cd tu_repositorio
 Instalar las dependencias:
 
-bash
-Copiar código
-pip install -r requirements.txt
+
 Ejecutar el sistema:
-Simplemente ejecuta el script principal y la interfaz de Gradio se abrirá automáticamente.
+Simplemente ejecuta el script principal celda por celda y la interfaz de Gradio se abrirá automáticamente.
 
 bash
 Copiar código
